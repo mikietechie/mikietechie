@@ -1,6 +1,6 @@
 # 👋 Hi, I am Mike Zinyoni @mikietechie
 
-I am a Harvard University, AWS, Oracle certified Python, JavaScript, SQL engineer.
+I am a Harvard University, AWS certified Python, JavaScript, SQL engineer.
 
 Using Python and JavaScript/TypeScript I work on web development, data engineering, scripting and automation projects.
 
