@@ -1,4 +1,4 @@
-# 👋 Hello World, I am Mike Zinyoni @mikietechie
+# 👋 Hello World, I am Mike Z @mikietechie
 
 I am a Harvard University, AWS certified Python, JavaScript, SQL engineer based in St Petersburg Russia.
 
