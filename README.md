@@ -1,10 +1,13 @@
 # 👋 Hello World, I am Mike Z @mikietechie
 
-I am a Harvard University, AWS certified Python, JavaScript, SQL engineer based in St Petersburg Russia.
+## About Me
 
-Using Python and JavaScript/TypeScript I work on web development, data engineering, scripting and automation projects.
+I am a certified Python, JavaScript, SQL engineer based in St Petersburg Russia. I studied Computer Science at College. I have been coding since 2017, I started working in 2020. A few years ago I learnt Golang. Using Python, Golang and JavaScript/TypeScript I work on web development, data engineering, scripting and automation projects.
 
-- 👀 My technologies of choice are Django, NodeJS, Express, SocketIo, Ionic, ReactJS, Angular, Firebase and Postgres.
-- On a few occations work & school I have used Selenium, FAST API, C, C#, Pandas, Frappe and MongoDB.
-- 🌱 I’m currently trying to master mobile development & AI basics.
+## Technologies
+
+- 👀 I regularly work with Golang, Django, React, Postgres, Docker, Nginx.
+- At work I have worked with NodeJS, Express, Angular, Fast API, MongoDB, Selenium, Frapper, Pandas.
+- On a few occations work & school I been forced to use C, Gitlab and Flask.
+- 🌱 I’m currently trying to master mobile development.
 - 📫 How to reach me: say hello here mzinyoni7@outlook.com
