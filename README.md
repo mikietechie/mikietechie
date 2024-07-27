@@ -7,8 +7,8 @@ I am a certified Python, JavaScript, SQL engineer based in St Petersburg Russia.
 ## Technologies
 
 - 👀 I regularly work with Golang, Django, React, Postgres, Docker, Nginx.
-- At work I have worked with NodeJS, Express, Angular, Fast API, MongoDB, Selenium, Frapper, Pandas.
-- On a few occations work & school I been forced to use C, Gitlab and Flask.
+- At work I have worked with NodeJS, Express, Angular, Fast API, MongoDB, Selenium, Frappe, Pandas.
+- On a few occations work & school I have been forced to use C, Gitlab and Flask.
 - Of course I do use Ubuntu.
 - 🌱 I’m currently trying to master mobile development.
 - 📫 How to reach me: say hello here mzinyoni7@outlook.com
