@@ -1,14 +1,41 @@
-# 👋 Hello World, I am Mike Z @mikietechie
+# Mike Z
 
-## About Me
+`Hello world, I'm Mike a Mathematics & programming enthusiast!`
 
-I am a certified Python, JavaScript, SQL engineer based in St Petersburg Russia. I studied Data Science in the Mathematics and Computer Science faculty at Saint Petersburg State University. I have been coding since 2017, I started working in 2020. A few years ago I learnt Golang. Using Python, Golang and JavaScript/TypeScript I work on web development, data engineering, scripting, bots and automation projects. I have worked on in a few interesting sectors ranging from accounting and finance, health, media analysis, experiments simulation to transportation.
+## Contact & Address
 
-## Technologies
+1. Email: <mzinyoni7@yandex.com>
+2. Phone: +79990222648
+3. City: Saint Petersburg, Russian Fedaration
+4. Telegram: @mikeharare
+5. Github: <https://github.com/mikietechie>
+6. **References (Lecturers and former employers) available on request**
 
-- 👀 I regularly work with Golang, Fast API, Django, React, Postgres, Docker, Nginx, Aiogram.
-- At work I have worked with Ionic, NodeJS, Express, Angular, MongoDB, Selenium, Frappe, Pandas.
-- On a few occations work & school I have been forced to use C, C++, C#, Gitlab and Flask.
-- Of course I do use Ubuntu.
-- 🌱 I’m am interested in learning more about data science and Mathematics.
-- 📫 How to reach me: say hello here <mzinyoni7@outlook.com>
+## Education (2008-2025)
+
+1. Saint Petersburg State University, (Russia) Data Science Barchelors (2024-)
+2. ITMO University Mathematics & Computer Science In Russian Language (2023)
+3. Harvard University (Online) (CS50 Web Programming with Python & JavaScript 2021)
+4. Harvard University (Online) (CS50 Introduction to Computer Science 2020)
+
+## Work experience (Full-time) (2020-)
+
+1. (2024-2025) Python programmer at Profidevs in Saint Petersburg Russia.
+2. (2022-2023) Data Scientist at Media Monitors NGO (Harare)
+3. (2021-2023) Fullstack Python JavaScript Developer at Goprime (Harare)
+4. (2021-2024) Consultant Software Engineer at Index E Solutions (Harare)
+
+## Recent Projects (Commercial)
+
+1. Python Aiogram Telegram Bot with a Fast API rest api and a ReactJS Telegram mini app for simplifying CI/CD (Work Project, Russia)
+2. Python, FastAPI, Selenium microservice for data mining in Russian transport and auction systems. (Work Project, Russia)
+3. React JS, Flask, Python Astrology app for predicting stock prices <https://astrokhit.web.app/>, <https://sqkhit.web.app/>, <https://mmkhit.web.app/>, using Chinease beliefs. (Work Project, Hong Kong)
+4. **Portfolio project (2024)*** Stock Market data broker service like Polygon.io with a backend writtern using Golang, Postgres, Mongo DB, JWT, Postgres & Redis and a client app in the form of a Telegram Bot written using Python and Aiogram <https://github.com/mikietechie/gocurrenciesapi> & <https://github.com/mikietechie/sapp_rates_tg_bot>
+
+## Skills & Knowledge
+
+1. English Languge C1 & Russian Language B1
+2. Pro level software development using **Python** (2017-), **Linux Ubuntu (2022-)**, **Golang** (2022-), **SQL** (2020-), **JavaScript, TS** (2020-), **Docker**(2021-), **Git Github** (2020-), **Markdown**.
+4. At university in the courses [Mathematical foundations of algorithms, Programming fundamentals and Object Oriented Programming OOP] I have learnt and used C++, C#, Gitlab.
+5. Mathematics fundamentals (Sets Theory, Logic, Graph Theory, Combinatorics, Mathematical Analysis, Algebra, Number Theory, Probability, Geometry & Topology )
+<!--5. I have a good grasp of these concepts web applications architecture, version control, API documentation, message queues, caching, reverse proxies, server configuration, security, communication, sockets, stress & unit testing, SQL, No SQL, systems integration, data mining, cleaning and technical projects documentation -->
