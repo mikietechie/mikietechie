@@ -5,7 +5,6 @@
 ## Contact & Address
 
 1. Email: <mzinyoni7@yandex.com>
-2. Phone: +79990222648
 3. City: Saint Petersburg, Russian Fedaration
 4. Telegram: @mikeharare
 5. Github: <https://github.com/mikietechie>
