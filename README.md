@@ -1,6 +1,6 @@
 # Mike CV
 
-`Hello world, I'm Mike a Mathematics & programming enthusiast!`
+`Hello world, I'm Mike a Mathematics & programming enthusiast since 2017!`
 
 ## Contact & Address
 
